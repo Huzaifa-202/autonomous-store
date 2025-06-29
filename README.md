@@ -60,6 +60,10 @@ https://github.com/user-attachments/assets/0fb39dcc-e4ab-44c8-abdd-14bcc26776a7
 https://github.com/user-attachments/assets/d62c01b1-3602-4874-a9bb-739262aee08c
 
 
+https://github.com/user-attachments/assets/b5e2b711-1a34-4ac4-9b5e-ed235d86fccb
+
+
+
 
 
 # Train Batches
