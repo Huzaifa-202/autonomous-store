@@ -1,4 +1,4 @@
-![detection_20241217_135227_ad06a5b2-d900-42ea-9983-a8829e467c04](https://github.com/user-attachments/assets/e6d218a9-9c8d-4479-86f1-2ea848e5ff4d)# 🛒 Autonomous Store – Final Year Project (BSCS)
+ 🛒 Autonomous Store – Final Year Project (BSCS)
 
 This repository hosts the complete implementation and documentation for our Final Year Project (FYP) titled **Autonomous Store**. It is a next-generation, AI-powered retail system that replaces traditional checkout systems with 100% camera-based automation, enhancing both customer experience and operational efficiency.
 
