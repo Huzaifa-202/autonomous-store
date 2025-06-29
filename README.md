@@ -34,25 +34,7 @@ Includes detailed unit and functional test cases for:
 ## 📱 User App – Screenshots
 
 
-![WhatsApp Image 2025-06-30 at 12 54 13 AM](https://github.com/user-attachments/assets/6f880264-3cf9-4d78-98ad-a6bf037ef294)
-
-
-![WhatsApp Image 2025-06-30 at 12 54 13 AM (1)](https://github.com/user-attachments/assets/b57dfeb9-830a-4c32-baa2-06d6bd3ee42c)
-
-
-![WhatsApp Image 2025-06-30 at 12 54 14 AM](https://github.com/user-attachments/assets/2f81cfb3-d0ca-4690-b16e-6f22a0337030)
-
-
-
-![WhatsApp Image 2025-06-30 at 12 54 14 AM (1)](https://github.com/user-attachments/assets/5b1ef48f-1347-4d59-b7dc-e7e11cff74b7)
-
-![WhatsApp Image 2025-06-30 at 12 54 14 AM (2)](https://github.com/user-attachments/assets/0f2b63fb-17c3-4389-80ff-e4ee3628dc96)
-
-
-![WhatsApp Image 2025-06-30 at 12 54 15 AM](https://github.com/user-attachments/assets/ef8a831a-0b24-4f6f-8f80-6e4c03e86ea0)
-
-
-![WhatsApp Image 2025-06-30 at 12 54 15 AM (1)](https://github.com/user-attachments/assets/430204aa-35dc-405b-9770-f5a556a2f92d)
+![WhatsApp Image 2025-06-30 at 12 54 13 AM](https://github.com/user-attachments/assets/867e62fc-1b92-4bac-9fea-f689f29d6786)
 
 
 
