@@ -1,0 +1,13 @@
+/* Custom CSS for hiding scrollbar but maintaining scroll functionality */
+.sidebar-scroll {
+  overflow-y: scroll; /* Enable vertical scrolling */
+}
+
+.sidebar-scroll::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for WebKit browsers */
+}
+
+.sidebar-scroll {
+  -ms-overflow-style: none; /* Hide scrollbar for IE and Edge */
+  scrollbar-width: none; /* Hide scrollbar for Firefox */
+}
