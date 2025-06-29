@@ -38,6 +38,15 @@ Includes detailed unit and functional test cases for:
 ### 👤 Person Tracking### 
 
 
+https://github.com/user-attachments/assets/2495f754-400e-45b1-a060-e67bc1213847
+
+# Final Heatmap
+
+![final_heatmap](https://github.com/user-attachments/assets/7abba252-3696-4bbf-8848-da2a36c049bf)
+
+
+
+
 📦 Shelf Tracking  ## 
 
 https://github.com/user-attachments/assets/0fb39dcc-e4ab-44c8-abdd-14bcc26776a7
