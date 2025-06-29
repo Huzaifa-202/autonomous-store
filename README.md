@@ -39,10 +39,24 @@ Includes detailed unit and functional test cases for:
 
 
 📦 Shelf Tracking  ## 
+
 https://github.com/user-attachments/assets/0fb39dcc-e4ab-44c8-abdd-14bcc26776a7
+
+
+https://github.com/user-attachments/assets/d62c01b1-3602-4874-a9bb-739262aee08c
+
+
 # Detected Frames
 
 ![detection_20241217_135227_ad06a5b2-d900-42ea-9983-a8829e467c04](https://github.com/user-attachments/assets/b5199105-64bc-4f10-b4f0-9f4a3888ac20)
+
+# Train Batches
+
+![train_batch0](https://github.com/user-attachments/assets/e104e238-e93a-4999-822c-8329093328be)
+
+![train_batch1](https://github.com/user-attachments/assets/ca3c6e23-2764-4ddf-bfde-e5bca82410b9)
+
+![train_batch2](https://github.com/user-attachments/assets/b9c8816e-681a-4b7a-a94d-f6e97b49e223)
 
 
 ### 🎯 Product/Object Detection 
