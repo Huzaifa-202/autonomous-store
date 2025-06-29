@@ -43,6 +43,7 @@ Includes detailed unit and functional test cases for:
 - Computer Vision (OpenCV, custom ML models)
 - YOLOV8
 - Node.js
+- React Native
 - MongoDB,Firebase
 - Object-Oriented Design (OOP)
 - Agile methodology with Scrum
