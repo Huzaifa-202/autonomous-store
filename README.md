@@ -71,6 +71,10 @@ https://github.com/user-attachments/assets/d62c01b1-3602-4874-a9bb-739262aee08c
 ### 🎯 Product/Object Detection 
 
 
+![frame](https://github.com/user-attachments/assets/831b7c81-079e-452d-a01b-8d66b293f6fe)
+
+
+
 
 
 📅 FYP-II Development Timeline (Jan–Apr 2025)
