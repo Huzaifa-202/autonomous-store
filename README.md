@@ -41,6 +41,7 @@ Includes detailed unit and functional test cases for:
 - Python (FastAPI backend)
 - Streamlit / React (frontend)
 - Computer Vision (OpenCV, custom ML models)
+- YOLOV8
 - Object-Oriented Design (OOP)
 - Agile methodology with Scrum
 
