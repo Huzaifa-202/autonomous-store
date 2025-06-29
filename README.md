@@ -34,9 +34,6 @@ Includes detailed unit and functional test cases for:
 ## 📱 User App – Screenshots
 
 
-![WhatsApp Image 2025-06-30 at 12 54 13 AM](https://github.com/user-attachments/assets/867e62fc-1b92-4bac-9fea-f689f29d6786)
-
-
 
 ## 📊 Admin Dashboard – Analytics & Heatmaps
 # 🎥 Object Detection & Tracking Demos
