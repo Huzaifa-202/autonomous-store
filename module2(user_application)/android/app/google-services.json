@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078752837165",
+    "project_id": "fbis-19de1",
+    "storage_bucket": "fbis-19de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078752837165:android:01bb623de5b315507882a4",
+        "android_client_info": {
+          "package_name": "com.fbi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU1d3Gh1M61Yoa_bvOS-LZrE_JCC06XoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
