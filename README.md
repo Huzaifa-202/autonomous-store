@@ -77,6 +77,13 @@ https://github.com/user-attachments/assets/d62c01b1-3602-4874-a9bb-739262aee08c
 
 
 
+https://github.com/user-attachments/assets/93649396-7f99-496e-b253-6f788ee25c19
+
+
+
+
+
+
 📅 FYP-II Development Timeline (Jan–Apr 2025)
 
 - ✅ Mobile Client App (Entry, Shopping, Checkout)
