@@ -18,8 +18,6 @@ This repository hosts the complete implementation and documentation for our Fina
 - `docs/SDS.pdf`: Software Design Specification
 - `docs/Final_Report.pdf`: Full academic report
 
-https://github.com/user-attachments/assets/9c559b8e-2c71-4c9b-932b-1153bf846560
-
 
 - `diagrams/`: System and architecture diagrams
 
